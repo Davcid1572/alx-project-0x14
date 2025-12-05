@@ -1,7 +1,7 @@
-3Project Description
+# - Project Description
 CineSeek is a modern movie discovery application built with Next.js, TypeScript, and Tailwind CSS. The application allows users to browse movies from the MoviesDatabase API, view movie details, and search for films by year or genre. The project focuses on creating a responsive, well-structured web application with proper API integration and TypeScript typing.
 
-##Learning Objectives
+## - Learning Objectives
 Understanding API documentation and integration
 Implementing TypeScript interfaces for API responses
 Creating reusable React components
